@@ -1,4 +1,4 @@
-FROM debian:bookworm
+FROM debian:12.11
 
 LABEL phith0n="phithon <root@leavesongs.com>"
 
